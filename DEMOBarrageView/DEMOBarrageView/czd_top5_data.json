@@ -1,0 +1,51 @@
+{
+    "result": 1,
+    "data": [
+        {
+            "userName": "尼古拉斯赵四",
+            "guessRankNum": 1,
+            "guessErrorNum": 4.67,
+            "createtime": "2018-09-01 11:31:56",
+            "recordId": "3",
+            "guessNum": 1.1,
+            "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1542954834394&di=470c9fa7224bab27ebbff39c1edde151&imgtype=0&src=http%3A%2F%2Fwww.jituwang.com%2Fuploads%2Fallimg%2F151003%2F258203-1510030RP894.jpg"
+        },
+        {
+            "userName": "小泽玛利亚",
+            "guessRankNum": 1,
+            "guessErrorNum": 4.67,
+            "createtime": "2018-09-01 11:31:56",
+            "recordId": "3",
+            "guessNum": -2.1,
+            "imgUrl": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1212066405,740162568&fm=27&gp=0.jpg"
+        },
+        {
+            "userName": "中本聪的比特币",
+            "guessRankNum": 1,
+            "guessErrorNum": 4.67,
+            "createtime": "2018-09-01 11:31:56",
+            "recordId": "3",
+            "guessNum": -99.1,
+            "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1542954834393&di=34c8373c804e2cf5a1bc2521bbf25cbb&imgtype=0&src=http%3A%2F%2Fimg4.duitang.com%2Fuploads%2Fitem%2F201602%2F06%2F20160206025901_JtzEC.thumb.700_0.jpeg"
+        },
+        {
+            "userName": "雷霸龙詹姆士",
+            "guessRankNum": 1,
+            "guessErrorNum": 4.67,
+            "createtime": "2018-09-01 11:31:56",
+            "recordId": "3",
+            "guessNum": 499.1,
+            "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1542954834393&di=a5b83698991ca57923b91ecf39317794&imgtype=0&src=http%3A%2F%2Fimg5.duitang.com%2Fuploads%2Fitem%2F201412%2F12%2F20141212014311_jwiC8.jpeg"
+        },
+        {
+            "userName": "库里就是屌",
+            "guessRankNum": 1,
+            "guessErrorNum": 4.67,
+            "createtime": "2018-09-01 11:31:56",
+            "recordId": "3",
+            "guessNum": 98.1,
+            "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1542954834393&di=46de53c3e4a63b8ec8a3fd58cf0b5660&imgtype=0&src=http%3A%2F%2Fimg5.duitang.com%2Fuploads%2Fitem%2F201410%2F08%2F20141008161842_taMnu.thumb.700_0.jpeg"
+        },
+    ],
+    "msg": "success"
+}
